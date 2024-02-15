@@ -9,7 +9,6 @@
 Each trial features these three puzzles, and they get progressively more complex, such that the players will need to communicate more for the purposes of the experiment.
 
 # Usage
-<img width="729" alt="Sample bomb with wires, color buttons, and keypad puzzles" src="https://github.com/claudiflower/irt-ktane-mods/assets/100651724/2ae2c429-dbda-4558-b7c5-df267c034c40"> <br>
 In order to use these mods, you will need:
 - Steam, to run the game
 - The game, Keep Talking and Nobody Explodes, on PC
@@ -24,6 +23,8 @@ Here are instructions to run the mods:
 Some additional mods were necessary, and are available to download from the Steam Workshop for Keep Talking and Nobody Explodes, including:
 - **Tweaks**: Allows you to set a seed such that the location of the puzzles is not randomized for each game
 - **BombCreator**: Allows you to keep random events (such as the lights turning off in-game) from happening
+
+<img width="500" alt="Sample bomb with wires, color buttons, and keypad puzzles" src="https://github.com/claudiflower/irt-ktane-mods/assets/100651724/2ae2c429-dbda-4558-b7c5-df267c034c40"> <br>
 
 # Manual
 Here is the manual that I created for these mods!
